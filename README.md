@@ -1,1 +1,1 @@
-GB.ASP.NETCore.WebApp
+ASP.Net Core Веб приложение
